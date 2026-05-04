@@ -1,4 +1,4 @@
-# DriveSafe AI: FMCSA Compliance Auditor
+# DriveSafe-AI: FMCSA Compliance Auditor
 
 ## Overview
 This project uses Natural Language Processing (NLP) to automatically detect compliance violations in trucking log entries. The goal is to reduce manual review time and improve accuracy in identifying safety issues.
